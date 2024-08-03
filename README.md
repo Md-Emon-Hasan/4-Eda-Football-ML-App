@@ -2,6 +2,8 @@
 
 Welcome to the **EDA Football App** machine learning project repository! This project focuses on performing exploratory data analysis on football data and implementing machine learning techniques for insights and predictions related to the sport.
 
+![4](https://github.com/user-attachments/assets/ed3f72ef-0283-410f-89c0-eb4ef8c38740)
+
 ## 📋 Contents
 
 - [Introduction](#introduction)
